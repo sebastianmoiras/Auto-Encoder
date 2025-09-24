@@ -14,10 +14,9 @@ Here is an example of a clean image and the same image after adding Gaussian noi
 ---
 
 ## Denoising Results
-After training, the autoencoder can take noisy input images and reconstruct cleaner versions:
 
 **Input (Noisy Data that Needs Denoising)**
-![Noisy Input](/assets/AE3.png)
+![Clean Image](/assets/AE4.png)
 
 **Output (Denoised Result)**
 ![Denoised Image](/assets/AE3.png)
