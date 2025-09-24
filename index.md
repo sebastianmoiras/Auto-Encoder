@@ -1,5 +1,3 @@
-# Autoencoder - Image Denoising
-
 ## Project Description
 This project implements a **Convolutional Autoencoder** to denoise images that were intentionally corrupted with **Gaussian noise**.  
 The autoencoder is trained by feeding it noisy images as input and learning to reconstruct the original clean images as output.  
@@ -10,11 +8,8 @@ This approach allows the model to capture image features while filtering out ran
 ## Input vs Noisy Images
 Here is an example of a clean image and the same image after adding Gaussian noise:
 
-**Clean Image**
+**Clean Image & Noisy Image**
 ![Clean Image](/assets/AE2.png)
-
-**Noisy Image**
-![Noisy Image](/assets/AE2.png)
 
 ---
 
