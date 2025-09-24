@@ -1,0 +1,8 @@
+title: "Autoencoder - Image Denoising"
+description: >
+  Training autoencoders on images corrupted with Gaussian noise 
+  to reconstruct clean versions.
+author: "Jonathan Sebastian Moiras"
+github_username: sebastianmoiras
+show_downloads: false
+theme: jekyll-theme-minimal
